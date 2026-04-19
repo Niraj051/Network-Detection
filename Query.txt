@@ -1,0 +1,1 @@
+index=endpoint EventId=3 DestinationPort=4444 OR DestinationPort=8000 | table Image, CommandLine,DestinationIp,DestinationPort
